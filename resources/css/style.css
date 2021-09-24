@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    font-family: Verdana;
+}
+
+.header {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.download {
+    text-align: center;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.excursion {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.title {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+.message {
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.camp {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.footer {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
